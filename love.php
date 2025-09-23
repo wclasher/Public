@@ -3,7 +3,7 @@
 <meta charset='UTF-8'/>
 <meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/>
 <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
-<title>Hello!</title>
+<title>Mr. W</title>
 <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/wclasher/Public/refs/heads/main/retouch_2025092320514474.png">
 <link href="https://htmlku.com/bukabentar/style.css" rel="stylesheet" type="text/css" />
 <script src="https://htmlku.com/bukabentar/script.js"></script>
